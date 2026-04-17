@@ -1,0 +1,10 @@
+{
+  "name": "dininghood-mcp",
+  "version": "0.1.0",
+  "description": "Dininghood MCP — experimental prototype, talk to #mcp-prototype before depending on it.",
+  "author": {
+    "name": "Dininghood"
+  },
+  "homepage": "https://github.com/Cover-Inc/dininghood-mcp-plugin",
+  "license": "LicenseRef-Proprietary"
+}

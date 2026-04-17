@@ -1,0 +1,16 @@
+{
+  "name": "dininghood-tools",
+  "owner": {
+    "name": "Dininghood"
+  },
+  "metadata": {
+    "description": "Dininghood MCP tools for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "dininghood-mcp",
+      "source": "./",
+      "description": "Dininghood MCP — experimental prototype, talk to #mcp-prototype before depending on it."
+    }
+  ]
+}

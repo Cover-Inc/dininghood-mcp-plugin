@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dininghood-mcp": {
+      "type": "http",
+      "url": "https://dh-mcp-nine.vercel.app/api/mcp"
+    }
+  }
+}
