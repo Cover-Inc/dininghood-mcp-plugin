@@ -22,7 +22,7 @@ and consent. Use your Dininghood email and password. Google-only accounts
 ## Tools
 
 - `whoami` — returns your Dininghood identity (id, email, username).
-- `searchExperiences` — search dining experiences by keyword.
+- `searchExperiences` — search dining experiences by keyword. May take 5–15 seconds; results include external dining sources beyond Dininghood listings.
 - `getMyDinerPoints` — your points balance and recent transactions.
 
 All tools are read-only.
